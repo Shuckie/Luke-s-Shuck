@@ -86,7 +86,7 @@ function update(elapsed:Float) {
         FlxTween.tween(text, {alpha: 0}, 0.5, {onComplete: () -> {
                 if (introCount == intros.length) {
                     entered = true;
-                    FlxG.save.data.iridaSeenIntro = true;
+                    FlxG.save.data.iridaSeenIntro = false;
                     FlxG.camera.fade(FlxColor.BLACK, 1, false, () -> FlxG.switchState(new ModState("irida/title")));
                     return;
                 }
