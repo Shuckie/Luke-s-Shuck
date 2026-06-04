@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="roseDying" icon="rose-shucks" color="#000000">
+	<anim name="idle" anim="roseDeadIdle" loop="true"/>
+	<anim name="roseDYING" anim="roseDYING" x="2" y="15"/>
+</character>

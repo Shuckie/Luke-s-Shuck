@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-character>
+<character x="-700" y="-2100" sprite="jump" scale="0.5" icon="detg" color="#FF7200">
+	<anim name="idle" anim=""/>
+	<anim name="intro" anim="diddy JUMP instance 1"/>
+</character>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="roseDying.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="roseDYING0000" x="0" y="0" width="583" height="446" frameX="-3" frameY="-7" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0001" x="583" y="0" width="583" height="446" frameX="-3" frameY="-7" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0002" x="1166" y="0" width="583" height="446" frameX="-3" frameY="-7" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0003" x="1166" y="0" width="583" height="446" frameX="-3" frameY="-7" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0004" x="1166" y="0" width="583" height="446" frameX="-3" frameY="-7" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0005" x="1749" y="0" width="583" height="446" frameX="-3" frameY="-7" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0006" x="2332" y="0" width="583" height="446" frameX="-3" frameY="-7" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0007" x="2332" y="0" width="583" height="446" frameX="-3" frameY="-7" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0008" x="2915" y="0" width="583" height="449" frameX="-3" frameY="-4" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0009" x="2915" y="0" width="583" height="449" frameX="-3" frameY="-4" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0010" x="3498" y="0" width="584" height="452" frameX="-2" frameY="-1" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0011" x="3498" y="0" width="584" height="452" frameX="-2" frameY="-1" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0012" x="3498" y="0" width="584" height="452" frameX="-2" frameY="-1" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0013" x="0" y="452" width="583" height="453" frameX="0" frameY="0" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0014" x="0" y="452" width="583" height="453" frameX="0" frameY="0" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0015" x="0" y="452" width="583" height="453" frameX="0" frameY="0" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0016" x="583" y="452" width="583" height="453" frameX="-1" frameY="0" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0017" x="583" y="452" width="583" height="453" frameX="-1" frameY="0" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0018" x="583" y="452" width="583" height="453" frameX="-1" frameY="0" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0019" x="583" y="452" width="583" height="453" frameX="-1" frameY="0" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0020" x="1166" y="452" width="583" height="452" frameX="-1" frameY="-1" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0021" x="1166" y="452" width="583" height="452" frameX="-1" frameY="-1" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0022" x="1749" y="452" width="583" height="452" frameX="-1" frameY="-1" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0023" x="1749" y="452" width="583" height="452" frameX="-1" frameY="-1" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0024" x="1749" y="452" width="583" height="452" frameX="-1" frameY="-1" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0025" x="1749" y="452" width="583" height="452" frameX="-1" frameY="-1" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0026" x="2332" y="452" width="583" height="452" frameX="-1" frameY="-1" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0027" x="2332" y="452" width="583" height="452" frameX="-1" frameY="-1" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0028" x="2915" y="452" width="584" height="449" frameX="-2" frameY="-4" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0029" x="2915" y="452" width="584" height="449" frameX="-2" frameY="-4" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0030" x="2915" y="452" width="584" height="449" frameX="-2" frameY="-4" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0031" x="3499" y="452" width="584" height="437" frameX="-2" frameY="-16" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0032" x="3499" y="452" width="584" height="437" frameX="-2" frameY="-16" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0033" x="0" y="905" width="584" height="437" frameX="-2" frameY="-16" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0034" x="0" y="905" width="584" height="437" frameX="-2" frameY="-16" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0035" x="584" y="905" width="584" height="435" frameX="-2" frameY="-18" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0036" x="584" y="905" width="584" height="435" frameX="-2" frameY="-18" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0037" x="584" y="905" width="584" height="435" frameX="-2" frameY="-18" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0038" x="1168" y="905" width="584" height="437" frameX="-2" frameY="-16" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0039" x="1168" y="905" width="584" height="437" frameX="-2" frameY="-16" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0040" x="1752" y="905" width="584" height="438" frameX="-2" frameY="-15" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0041" x="1752" y="905" width="584" height="438" frameX="-2" frameY="-15" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0042" x="1752" y="905" width="584" height="438" frameX="-2" frameY="-15" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0043" x="1752" y="905" width="584" height="438" frameX="-2" frameY="-15" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0044" x="1752" y="905" width="584" height="438" frameX="-2" frameY="-15" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0045" x="1752" y="905" width="584" height="438" frameX="-2" frameY="-15" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0046" x="1752" y="905" width="584" height="438" frameX="-2" frameY="-15" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDYING0047" x="1752" y="905" width="584" height="438" frameX="-2" frameY="-15" frameWidth="586" frameHeight="453"/>
+	<SubTexture name="roseDeadIdle0000" x="2336" y="905" width="584" height="438"/>
+</TextureAtlas>
